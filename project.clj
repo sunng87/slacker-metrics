@@ -1,4 +1,4 @@
-(defproject slacker-metrics "0.1.0-SNAPSHOT"
+(defproject slacker/slacker-metrics "0.1.0-SNAPSHOT"
   :description "A metrics extension for slacker rpc"
   :url "http://github.com/sunng87/slacker-metrics"
   :license {:name "Eclipse Public License"
