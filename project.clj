@@ -4,7 +4,7 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[metrics-clojure "2.9.0"]
-                 [slacker "0.15.0-SNAPSHOT"]]
+                 [slacker "0.15.0"]]
   :profiles {:example {:source-paths ["examples"]}
              :dev {:dependencies [[org.clojure/clojure "1.8.0"]]}}
   :deploy-repositories {"releases" :clojars}
